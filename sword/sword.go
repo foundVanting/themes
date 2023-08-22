@@ -1,14 +1,14 @@
 package sword
 
 import (
+	"github.com/gobuffalo/packr/v2"
 	"strings"
 
-	adminTemplate "github.com/GoAdminGroup/go-admin/template"
-	"github.com/GoAdminGroup/go-admin/template/components"
-	"github.com/GoAdminGroup/go-admin/template/types"
-	"github.com/GoAdminGroup/themes/common"
-	"github.com/GoAdminGroup/themes/sword/resource"
-	"github.com/gobuffalo/packr/v2"
+	adminTemplate "github.com/foundVanting/go-admin/template"
+	"github.com/foundVanting/go-admin/template/components"
+	"github.com/foundVanting/go-admin/template/types"
+	"github.com/foundVanting/themes/common"
+	"github.com/foundVanting/themes/sword/resource"
 )
 
 type Theme struct {
